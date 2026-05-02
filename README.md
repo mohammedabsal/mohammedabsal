@@ -1,105 +1,105 @@
-<img src="https://i.pinimg.com/originals/95/55/13/955513e00b4c5c3b9f47d1b5117c5d4e.gif" width="100%" />
-
-<h1 align="center">
-  Yo! I'm Mohammed Absal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
-<h3 align="center">🧠 Data Wizard | 💻 Full Stack Shinobi | 🏆 Hackathon Survivor</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF61A6&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Code+by+day+%F0%9F%94%A5;Anime+by+night+%F0%9F%8C%9F;Leveling+up+24%2F7+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=190&section=header&text=MOHAMMED%20ABSAL&fontSize=48&fontColor=FFD700&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%202x%20Hackathon%20Winner&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedabsal&style=flat-square&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/mohammedabsal?label=Follow&style=social" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=600&lines=Building+real-world+systems;MERN+Stack+Engineer;25%2B+Hackathons;Consistency+over+everything" />
 </p>
 
----
-
-### 🧩 GitHub Character Stats
-
-```yaml
-Name: Mohammed Absal  
-Class: AI Mage / Full Stack Alchemist  
-Level: Pre-Final Year (RIT Questline 🏫)  
-Location: Chennai, India  
-Guild: GitHub | LinkedIn | Hackathons  
-Weapon: Python Blade 🐍 + MERN Staff ⚔️  
-Special Move: Real-time data-driven explosions 💥
-🎮 Skill Tree Unlocked
-```
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,html,css,git,postman,vscode,r" />
+  <a href="https://absalblog.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=000000&color=000000" />
+  </a>
 </p>
 
-<details>
-<summary>🛡️ <b>Skill Tree</b> (click to expand)</summary>
-
-```
-⚔️ Programming:     Python ++ | JS ++ | C + | R +
-🛡️ Web Dev:         HTML/CSS ++ | Node.js ++ | Express ++ | Firebase +
-🎯 Data Wizardry:   Pandas ++ | NumPy ++ | Streamlit ++ | NLP ++
-💾 Databases:       MongoDB ++ | Snowflake + | SQL +
-🌀 Tools:           Git/GitHub ++ | Postman + | VS Code ++
-🧠 Soft Skills:     Critical Thinking ++ | Collab ++ | Communication +
-🧪 Status: Always testing. Always evolving.
-🎴 Anime Energy
-💥 Favorite Genre: Action + Big Brain (Think Code Geass, Death Note, Jujutsu Kaisen)
-```
-</details>
-
----
-
-### 🏆 GitHub Trophies
-
+<!-- STATS BAR -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedabsal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedabsal&label=Profile%20Views&color=FFD700&style=flat" />
+  <img src="https://img.shields.io/github/followers/mohammedabsal?label=Followers&style=social" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+## ⚡ About Me
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- Final Year B.Tech Student  
+- Full Stack Developer (MERN)  
+- Strong in DSA & backend systems  
+- Focused on building scalable, real-world applications  
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedabsal&theme=onestar&no-frame=true&margin-w=10" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabsal&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabsal&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabsal&layout=compact&theme=tokyonight" />
+  🥇 <b>2× Hackathon Winner</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏁 <b>10+ Finalist</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚡ <b>25+ Hackathons</b>
 </p>
 
 ---
 
-### 🛠️ Currently Grinding
-
-```diff
-+ MERN Stack Mastery
-+ System Design for Big Brain Interviews
-+ DSA Speed Run Mode
-+ Building Next Hackathon Banger
-+ Communication Skill Power-Up
-```
-
----
-
-### 🌐 Social Summon Circle
-
+## 🧠 Activity Pulse
 <p align="center">
-  <a href="mailto:mohammedabsal538@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohammedabsal538/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mohammedabsal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedabsal&theme=github-dark&hide_border=true&line=FFD700&point=FFFFFF" />
 </p>
 
 ---
 
-### 🧠 Quote That Hits Different
-
-> “You should enjoy the little detours. Because that's where you'll find the things more important than what you want.”  
-> — Ging Freecss (Hunter x Hunter)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,html,css,git,postman,vscode,r&theme=dark" />
+</p>
 
 ---
 
+## 📊 GitHub Intelligence
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohammedabsal&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700" />
+  <img height="160" src="https://streak-stats.demolab.com?user=mohammedabsal&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700" />
+</p>
+
+## 🌐 Connect
+<p align="center">
+  <a href="mailto:mohammedabsal538@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammedabsal538/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+  </a>
+  <a href="https://github.com/mohammedabsal">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bGU2amV0MnlqanR5cGplbmRrOHM4dXI2dDRyY2wzN2V5b3EycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lz6971fkGSgCMOOncl/giphy.gif" width="220"/>
+</p>
+
+<p align="center">
+  <b>Follow me for projects, builds, and hackathon drops 🚀</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohammedabsal">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammedabsal538/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+  </a>
+</p>
+<p align="center">
+  <b style="font-size:16px;">
+    🤖✨ Special thanks to my AI squad — ChatGPT 🤝 Claude 🧠 Copilot 💻  
+    <br/>
+    <span style="color:#FFD700;">for turning bugs into breakthroughs 😭🚀</span>
+  </b>
+</p>
+<!-- PREMIUM FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=160&section=footer"/>
 </p>
